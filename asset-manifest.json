@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fc2d1b46.css",
+    "main.js": "/static/js/main.68a50fb6.js",
+    "static/media/Elice_Bold.ttf": "/static/media/Elice_Bold.9174a2bf320d5c2fb2bd.ttf",
+    "static/media/Elice_Regular.ttf": "/static/media/Elice_Regular.44c2c8be3d89126f2084.ttf",
+    "index.html": "/index.html",
+    "main.fc2d1b46.css.map": "/static/css/main.fc2d1b46.css.map",
+    "main.68a50fb6.js.map": "/static/js/main.68a50fb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc2d1b46.css",
+    "static/js/main.68a50fb6.js"
+  ]
+}
